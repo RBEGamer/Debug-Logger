@@ -1,0 +1,30 @@
+<xml version="1.0">
+<BUILD_INFO>
+<log_entry id="0" function="debug_logger" line="61" reason="Jun 20 2016" log_level="INFO" tag="COMPILATION DATE" timestamp="1466435570" />
+<log_entry id="1" function="debug_logger" line="62" reason="17:06:52" log_level="INFO" tag="COMPILATION TIME" timestamp="1466435570" />
+<log_entry id="2" function="debug_logger" line="63" reason="1466435570" log_level="INFO" tag="LOG FILE SERVICE STARTED" timestamp="1466435570" />
+<log_entry id="3" function="debug_logger" line="78" reason="APPLE" log_level="INFO" tag="PLATTFORM" timestamp="1466435570" />
+</BUILD_INFO>
+<programm_start>
+<log_entry id="4" function="main" line="113" reason="sucess" log_level="ERROR" tag="Init" timestamp="1466435570" />
+</programm_start>
+<GENERATED_CHARTS>
+<chart id="0" name="FPS" x_asis="TIME" y_asis="FPS">
+<chart_point chart_id="0" x_value="1466435570" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435571" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435572" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435573" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435574" y_value="4.000000" />
+</chart>
+</GENERATED_CHARTS>
+<GENERATED_CALLSTACKS>
+<callstack id="0" name="END stack (UGCS)" generation_time="1466435575" >
+<callstack_call id="0" return_ptr="0" symbol_name="0   optimiser                           0x000000010000a31f _ZN2MO12debug_logger16create_callstackENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE + 255" />
+<callstack_call id="1" return_ptr="0" symbol_name="1   optimiser                           0x000000010000a1e4 _ZN2MO12debug_logger18snapshot_callstackENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE + 180" />
+<callstack_call id="2" return_ptr="0" symbol_name="2   optimiser                           0x0000000100001bcb main + 1707" />
+<callstack_call id="3" return_ptr="0" symbol_name="3   libdyld.dylib                       0x00007fff93b625ad start + 1" />
+<callstack_call id="4" return_ptr="0" symbol_name="4   ???                                 0x0000000000000001 0x0 + 1" />
+</callstack>
+</GENERATED_CALLSTACKS>
+</xml>
+

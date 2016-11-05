@@ -1,0 +1,72 @@
+<xml version="1.0">
+<BUILD_INFO>
+<log_entry id="0" function="debug_logger" line="61" reason="Jun 20 2016" log_level="INFO" tag="COMPILATION DATE" timestamp="1466435632" />
+<log_entry id="1" function="debug_logger" line="62" reason="17:06:52" log_level="INFO" tag="COMPILATION TIME" timestamp="1466435632" />
+<log_entry id="2" function="debug_logger" line="63" reason="1466435632" log_level="INFO" tag="LOG FILE SERVICE STARTED" timestamp="1466435632" />
+<log_entry id="3" function="debug_logger" line="78" reason="APPLE" log_level="INFO" tag="PLATTFORM" timestamp="1466435632" />
+</BUILD_INFO>
+<programm_start>
+<log_entry id="4" function="main" line="113" reason="sucess" log_level="ERROR" tag="Init" timestamp="1466435632" />
+</programm_start>
+<GENERATED_CHARTS>
+<chart id="0" name="FPS" x_asis="TIME" y_asis="FPS">
+<chart_point chart_id="0" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="0" x_value="1466435636" y_value="4.000000" />
+</chart>
+<chart id="1" name="FPS1" x_asis="TIME" y_asis="FPS1">
+<chart_point chart_id="1" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="1" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="1" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="1" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="1" x_value="1466435636" y_value="4.000000" />
+</chart>
+<chart id="2" name="FPS2" x_asis="TIME" y_asis="FPS2">
+<chart_point chart_id="2" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="2" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="2" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="2" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="2" x_value="1466435636" y_value="4.000000" />
+</chart>
+<chart id="3" name="FPS3" x_asis="TIME" y_asis="FPS3">
+<chart_point chart_id="3" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="3" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="3" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="3" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="3" x_value="1466435636" y_value="4.000000" />
+</chart>
+<chart id="4" name="FPS4" x_asis="TIME" y_asis="FPS4">
+<chart_point chart_id="4" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="4" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="4" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="4" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="4" x_value="1466435636" y_value="4.000000" />
+</chart>
+<chart id="5" name="FPS5" x_asis="TIME" y_asis="FPS5">
+<chart_point chart_id="5" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="5" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="5" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="5" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="5" x_value="1466435636" y_value="4.000000" />
+</chart>
+<chart id="6" name="FPS6" x_asis="TIME" y_asis="FPS6">
+<chart_point chart_id="6" x_value="1466435632" y_value="4.000000" />
+<chart_point chart_id="6" x_value="1466435633" y_value="4.000000" />
+<chart_point chart_id="6" x_value="1466435634" y_value="4.000000" />
+<chart_point chart_id="6" x_value="1466435635" y_value="4.000000" />
+<chart_point chart_id="6" x_value="1466435636" y_value="4.000000" />
+</chart>
+</GENERATED_CHARTS>
+<GENERATED_CALLSTACKS>
+<callstack id="0" name="END stack (UGCS)" generation_time="1466435637" >
+<callstack_call id="0" return_ptr="0" symbol_name="0   optimiser                           0x000000010000a23f _ZN2MO12debug_logger16create_callstackENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE + 255" />
+<callstack_call id="1" return_ptr="0" symbol_name="1   optimiser                           0x000000010000a104 _ZN2MO12debug_logger18snapshot_callstackENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE + 180" />
+<callstack_call id="2" return_ptr="0" symbol_name="2   optimiser                           0x0000000100001a06 main + 3270" />
+<callstack_call id="3" return_ptr="0" symbol_name="3   libdyld.dylib                       0x00007fff93b625ad start + 1" />
+<callstack_call id="4" return_ptr="0" symbol_name="4   ???                                 0x0000000000000001 0x0 + 1" />
+</callstack>
+</GENERATED_CALLSTACKS>
+</xml>
+

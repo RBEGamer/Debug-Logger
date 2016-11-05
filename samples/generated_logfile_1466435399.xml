@@ -1,0 +1,16 @@
+<xml version="1.0">
+<BUILD_INFO>
+<log_entry id="0" function="debug_logger" line="61" reason="Jun 20 2016" log_level="INFO" tag="COMPILATION DATE" timestamp="1466435399" />
+<log_entry id="1" function="debug_logger" line="62" reason="17:06:52" log_level="INFO" tag="COMPILATION TIME" timestamp="1466435399" />
+<log_entry id="2" function="debug_logger" line="63" reason="1466435399" log_level="INFO" tag="LOG FILE SERVICE STARTED" timestamp="1466435399" />
+<log_entry id="3" function="debug_logger" line="78" reason="APPLE" log_level="INFO" tag="PLATTFORM" timestamp="1466435399" />
+</BUILD_INFO>
+<programm_start>
+<log_entry id="4" function="main" line="113" reason="sucess" log_level="ERROR" tag="Init" timestamp="1466435399" />
+</programm_start>
+<GENERATED_CHARTS>
+</GENERATED_CHARTS>
+<GENERATED_CALLSTACKS>
+</GENERATED_CALLSTACKS>
+</xml>
+

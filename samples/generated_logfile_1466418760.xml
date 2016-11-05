@@ -1,0 +1,37 @@
+<xml version="1.0">
+<BUILD_INFO>
+<log_entry id="0" function="debug_logger" line="61" reason="Jun 20 2016" log_level="INFO" tag="COMPILATION DATE" timestamp="1466418760" />
+<log_entry id="1" function="debug_logger" line="62" reason="12:32:37" log_level="INFO" tag="COMPILATION TIME" timestamp="1466418760" />
+<log_entry id="2" function="debug_logger" line="63" reason="1466418760" log_level="INFO" tag="LOG FILE SERVICE STARTED" timestamp="1466418760" />
+<log_entry id="3" function="debug_logger" line="78" reason="APPLE" log_level="INFO" tag="PLATTFORM" timestamp="1466418760" />
+</BUILD_INFO>
+<SEC1>
+<log_entry id="4" function="main" line="113" reason="test" log_level="INFO" tag="test" timestamp="1466418760" />
+</SEC1>
+<GENERATED_CHARTS>
+<chart id="0" name="CPU_USAGE" x_asis="TIME" y_asis="CPU_USAGE">
+<chart_point chart_id="0" x_value="1466418760" y_value="7.000000" />
+<chart_point chart_id="0" x_value="1466418761" y_value="73.000000" />
+<chart_point chart_id="0" x_value="1466418762" y_value="30.000000" />
+<chart_point chart_id="0" x_value="1466418763" y_value="44.000000" />
+<chart_point chart_id="0" x_value="1466418764" y_value="23.000000" />
+</chart>
+<chart id="1" name="RAM_USAGE" x_asis="TIME" y_asis="RAM_USAGE">
+<chart_point chart_id="1" x_value="1466418760" y_value="49.000000" />
+<chart_point chart_id="1" x_value="1466418761" y_value="58.000000" />
+<chart_point chart_id="1" x_value="1466418762" y_value="72.000000" />
+<chart_point chart_id="1" x_value="1466418763" y_value="78.000000" />
+<chart_point chart_id="1" x_value="1466418764" y_value="9.000000" />
+</chart>
+</GENERATED_CHARTS>
+<GENERATED_CALLSTACKS>
+<callstack id="0" name="END stack (UGCS)" generation_time="1466418765" >
+<callstack_call id="0" return_ptr="0" symbol_name="0   optimiser                           0x000000010000a2df _ZN2MO12debug_logger16create_callstackENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE + 255" />
+<callstack_call id="1" return_ptr="0" symbol_name="1   optimiser                           0x000000010000a1a4 _ZN2MO12debug_logger18snapshot_callstackENSt3__112basic_stringIcNS1_11char_traitsIcEENS1_9allocatorIcEEEE + 180" />
+<callstack_call id="2" return_ptr="0" symbol_name="2   optimiser                           0x0000000100001ab5 main + 1845" />
+<callstack_call id="3" return_ptr="0" symbol_name="3   libdyld.dylib                       0x00007fff93b625ad start + 1" />
+<callstack_call id="4" return_ptr="0" symbol_name="4   ???                                 0x0000000000000001 0x0 + 1" />
+</callstack>
+</GENERATED_CALLSTACKS>
+</xml>
+
