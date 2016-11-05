@@ -9,10 +9,6 @@ Samples of the exported data can be sound at /samples/.
 
 To use this lib on Windows, please use the CMake-File to build a windows compatible project.
 
-![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/startup_section.png)
-
-
-
 # FEATURES
 * HTML, CSV, XML Data export for further processing
 * Debuglevels eg. ERROR, INFO, WARNING
@@ -33,3 +29,9 @@ A test project to show the basic usage of the lib is located at : /src/FRM_DEBUG
 
 # TODO 
 * Format the callstack output to a good readable format
+
+
+# IMAGES
+![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/startup_section.png)
+![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/line_chart.png)
+![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/callstack.png)
