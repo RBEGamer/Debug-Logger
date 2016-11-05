@@ -9,7 +9,7 @@ Samples of the exported data can be sound at /samples/.
 
 To use this lib on Windows, please use the CMake-File to build a windows compatible project.
 
-![alt tag](/Debug-Logger/images/startup_section.png)
+![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/startup_section.png)
 
 
 
