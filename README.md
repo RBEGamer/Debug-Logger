@@ -17,9 +17,6 @@ To use this lib on Windows, please use the CMake-File to build a windows compati
 * Create multible callstacks at runtime
 * Group log entries
 
-# USAGE OF THE LIB
-
-
 ### LINECHARTS
 * If you want to use linecharts please download the canvasjs.min.js lib and put them to the export dir.
 * The webserver uses the direct online version of the lib : http://canvasjs.com/assets/script/canvasjs.min.js
