@@ -17,11 +17,11 @@ int main(int argc, const char * argv[]) {
     
     debug->switch_section("SECTION 1"); //create section
     
- /*
+ 
     for (int i = 0; i < 100; i++) {
-   / */     sleep(30); //to show timestamps
-       // debug->log_info(std::to_string((100)),"213"); //create log entry
-    /*
+      sleep(30); //to show timestamps
+       debug->log_info(std::to_string(100*i),"213"); //create log entry
+    
     if(i == 60){
             debug->switch_section("SEC 3");
         }
@@ -32,7 +32,7 @@ int main(int argc, const char * argv[]) {
         debug->store_chart_value_timestamp(rand() % 100, "TEST_CHART"); //create chart
         std::cout << i << std::endl;
     }
-   */
+   
     
     
     
