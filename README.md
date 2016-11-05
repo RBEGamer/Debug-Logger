@@ -5,6 +5,8 @@ Create log-entries with timestamp and functionname/line and debuglevels.
 Create linecharts (using the canvasjs.min.js lib) and callstacks.
 Export logged data to html,xml,csv (charts only).
 
+Samples of the exported data can be sound at /samples/.
+
 To use this lib on Windows, please use the CMake-File to build a windows compatible project.
 
 # FEATURES
@@ -23,7 +25,7 @@ To use this lib on Windows, please use the CMake-File to build a windows compati
 * The webserver uses the direct online version of the lib : http://canvasjs.com/assets/script/canvasjs.min.js
 
 # SAMPLE CODE
-
+A test project to show the basic usage of the lib is located at : /src/FRM_DEBUG_LOGGER_TESTER/FRM_DEBUG_LOGGER_TESTER/main.cpp
 
 # TODO 
 * Format the callstack output to a good readable format
