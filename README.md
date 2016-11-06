@@ -29,6 +29,9 @@ A test project to show the basic usage of the lib is located at : /src/FRM_DEBUG
 
 
 # IMAGES
+### LOG ENTRIES
 ![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/startup_section.png)
+### CHARTS
 ![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/line_chart.png)
+### CALLSTACK
 ![alt tag](https://raw.githubusercontent.com/RBEGamer/Debug-Logger/master/images/callstack.png)
