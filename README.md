@@ -26,7 +26,7 @@ A test project to show the basic usage of the lib is located at : `/src/FRM_DEBU
 
 # TODO 
 * Format the callstack output to a good readable format
-
+* add timer for func durations
 
 # IMAGES
 ### LOG ENTRIES
