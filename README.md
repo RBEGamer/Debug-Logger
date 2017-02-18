@@ -5,7 +5,7 @@ Create log-entries with timestamp and functionname/line and debuglevels.
 Create linecharts (using the `canvasjs.min.js` lib) and callstacks.
 Export logged data to html,xml,csv (charts only).
 
-Samples of the exported data can be sound at /samples/.
+Samples of the exported data can be sound at `/samples/`.
 
 To use this lib on Windows, please use the CMake-File to build a windows compatible project.
 
